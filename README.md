@@ -13,8 +13,6 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 ```
 1) pré-requis (version locale V2)
 2) pré-requis (vesrion locale V2)
-1) pré-requis (version distante V2)
-2) pré-requis (vesrion distante V2)
 
 ```
 
