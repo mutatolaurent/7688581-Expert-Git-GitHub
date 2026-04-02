@@ -11,8 +11,8 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
-1) pré-requis (version locale)
-2) pré-requis (vesrion locale)
+1) pré-requis (version locale V2)
+2) pré-requis (vesrion locale V2)
 
 ```
 
